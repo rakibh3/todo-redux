@@ -22,9 +22,7 @@ const AddTodoModal = () => {
       <DialogContent className="sm:max-w-[425px]">
         <DialogHeader>
           <DialogTitle>Add Todo</DialogTitle>
-          <DialogDescription>
-            Make changes to your profile here.
-          </DialogDescription>
+          <DialogDescription>Make changes.</DialogDescription>
         </DialogHeader>
         <div className="grid gap-4 py-4">
           <div className="grid grid-cols-4 items-center gap-4">
