@@ -27,7 +27,7 @@ const AddTodoModal = () => {
         <div className="grid gap-4 py-4">
           <div className="grid grid-cols-4 items-center gap-4">
             <Label htmlFor="name" className="text-right">
-              Todo Name
+              Todo 
             </Label>
             <Input id="name" value="Pedro Duarte" className="col-span-3" />
           </div>
